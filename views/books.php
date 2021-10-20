@@ -1,5 +1,5 @@
 <div id="contenu">
-	<h2>Les Livres</h2>
+	<h2>Les Books</h2>
 	<p>Bienvenue sur la page des livres.</p>
 	<table id="tableBalises">
 		<thead>
